@@ -1,0 +1,32 @@
+h1{
+    color: aquamarine;
+    border-color: black;
+    box-sizing: border-box;
+}
+
+p{
+    text-align: center;;
+    color: rgba(43, 42, 39, 0.89);
+}
+
+footer{
+    position: absolute; bottom: 0%;
+    box-sizing: border-box
+}
+body{
+    background-image: url("depositphotos_36818387-stock-photo-nike-air-jordan-iii-fire.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    width:30%;
+    padding: 30px;
+    border: 1px solid #f8f2f2;
+    background: rgb(253, 250, 250);
+    text-align: center;
+    margin-left: 500px;
+    background-image: url("crampons-adidas-alrihla-2223-img2.jpg");
+}
+
+

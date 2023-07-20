@@ -1,0 +1,16 @@
+body{
+     background-color: grey;
+}
+
+#container{
+     width: 400px;
+     margin:0 auto;
+     margin-top: 10%;
+}
+form{
+     width:100%;
+     padding: 30px;
+     border: 1px solid #f1f1f1;
+     background: #fff;
+}
+     

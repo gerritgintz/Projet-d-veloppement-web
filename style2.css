@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+header{
+    background-color: #333;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    font-family: 'Manrope', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
+h3{
+    font-family: 'Manrope', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+   font-style: italic;
+}
+div{
+    background-color: #555;
+    height: 60px;
+    text-align: center;
+}
+.espace{
+    padding: 40px ;
+}
+a{
+    color:  #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+    font-weight: 700;
+    text-decoration: none;
+}
+body{
+    background-color: aqua;
+
+}
+input{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: rgba(0, 255, 255, 0.5);
+    border-radius: 10px 10px 10px 10px;
+}
+span{
+    padding: 60px ;  
+}
+p{
+    margin: 30px;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    position: absolute;bottom: 0%;
+    color: goldenrod;
+}
+img{
+    padding: 10px;
+    margin-left: 195px;  
+} 
+footer{
+  position: absolute;bottom: 0%;
+  color: aqua;
+  text-align: end;
+  position: relative;
+  
+
+}
+body{
+    background-image: url("../css/20b5ace28622.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    width: 400px;
+    margin:0 auto;
+    margin-top: 10%;
+}
+form{
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f8f2f2;
+    background: rgb(216, 213, 213);
+}
